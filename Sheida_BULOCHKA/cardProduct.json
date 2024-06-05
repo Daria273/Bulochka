@@ -1,0 +1,145 @@
+[
+    {
+    "id": 1,
+    "title" : "Капучино",
+    "price" : "10000",
+    "path" : "./img/cards/capuchino.png",
+    "descr": ""
+    },
+
+    {
+    "id": 2,
+    "title" : "Эспрессо",
+    "price" : "200",
+    "path" : "./img/cards/espresso.png",
+    "descr": ""
+    },
+
+    {
+    "id": 3,
+    "title" : "Холодный латте",
+    "price" : "150",
+    "path" : "./img/cards/iced_latte.png",
+    "descr": ""
+    },
+
+    {
+    "id": 4,
+    "title" : "Тирамису",
+    "price" : "2000",
+    "path" : "./img/cards/tiramisu.png",
+    "descr": ""
+    },
+
+    {
+    "id": 5,
+    "title" : "Шоколадный торт",
+    "price" : "200",
+    "path" : "./img/cards/shoko.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 6,
+    "title" : "Круасан",
+    "price" : "150",
+    "path" : "./img/cards/cruasan.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 7,
+    "title" : "Макарун",
+    "price" : "2000",
+    "path" : "./img/cards/macarun.png",
+    "descr": ""
+    },
+
+    {
+    "id": 8,
+    "title" : "Капучино",
+    "price" : "10000",
+    "path" : "./img/cards/capuchino.png",
+    "descr": ""
+    },
+
+    {
+    "id": 9,
+    "title" : "Эспрессо",
+    "price" : "200",
+    "path" : "./img/cards/espresso.png",
+    "descr": ""
+    },
+
+    {
+    "id": 10,
+    "title" : "Холодный латте",
+    "price" : "150",
+    "path" : "./img/cards/iced_latte.png",
+    "descr": ""
+    },
+
+    {
+    "id": 11,
+    "title" : "Тирамису",
+    "price" : "2000",
+    "path" : "./img/cards/tiramisu.png",
+    "descr": ""
+    },
+
+    {
+    "id": 12,
+    "title" : "Шоколадный торт",
+    "price" : "200",
+    "path" : "./img/cards/shoko.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 13,
+    "title" : "Круасан",
+    "price" : "150",
+    "path" : "./img/cards/cruasan.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 14,
+    "title" : "Макарун",
+    "price" : "2000",
+    "path" : "./img/cards/macarun.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 15,
+    "title" : "Тирамису",
+    "price" : "2000",
+    "path" : "./img/cards/tiramisu.png",
+    "descr": ""
+    },
+
+    {
+    "id": 16,
+    "title" : "Шоколадный торт",
+    "price" : "200",
+    "path" : "./img/cards/shoko.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 17,
+    "title" : "Круасан",
+    "price" : "150",
+    "path" : "./img/cards/cruasan.png",
+    "descr": ""
+    },
+    
+    {
+    "id": 18,
+    "title" : "Макарун",
+    "price" : "2000",
+    "path" : "./img/cards/macarun.png",
+    "descr": ""
+    }   
+]
